@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.5",
+  "appInfo": {
+    "name": "EV Users",
+    "description": "Manage permissions for EV users.",
+    "version": "9191uemq",
+    "id": "cl2fa085848070801s6p1mn92j7",
+    "url": "https://app.amplication.com/cl2fa085848070801s6p1mn92j7",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl2fa085848070801s6p1mn92j7",
+      "authProvider": "Jwt"
+    }
+  }
+}
